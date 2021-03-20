@@ -1,0 +1,4 @@
+#设置环境
+ioc:
+  scan:
+    path=com.well.platform:
